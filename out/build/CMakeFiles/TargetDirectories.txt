@@ -1,3 +1,0 @@
-/home/mflavio/workspace/C++/projects/RayTracer/out/build/CMakeFiles/Dumas.dir
-/home/mflavio/workspace/C++/projects/RayTracer/out/build/CMakeFiles/edit_cache.dir
-/home/mflavio/workspace/C++/projects/RayTracer/out/build/CMakeFiles/rebuild_cache.dir
