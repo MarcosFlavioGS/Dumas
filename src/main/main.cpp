@@ -4,6 +4,9 @@
 
 using namespace std;
 
+/*
+** This is the entrypoint of Dumas
+*/
 int main() {
 
     // Image
